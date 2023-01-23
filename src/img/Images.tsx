@@ -1,4 +1,6 @@
 import React from "react"
+
+//estos son las imagenes para el componente principal armadas como function component
 export function LogoClaro(){
     return(<svg width="217" height="206" viewBox="0 0 217 206" fill="none" xmlns="http://www.w3.org/2000/svg" xmlnsXlink="http://www.w3.org/1999/xlink">
     <g opacity="0.3">
